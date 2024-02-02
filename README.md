@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JorandG
-- 👀 I’m interested in Machine Learning and Robotic Manipulation
-- 🌱 I’m currently learning robotic manipulation using reinforcement learning for path planning
+- 👀 I’m interested in Robotic and Machine Learning
+- 🌱 I’m currently doing a PhD in robotic for precision agriculture at Roma Tre
 - 💞️ I’m looking to collaborate on autonomous robots that could interact in unknown and complex environments
 - 📫 You can contact me via email at galloujorand@gmail.com
 
